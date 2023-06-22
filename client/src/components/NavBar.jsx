@@ -16,7 +16,7 @@ const NavBar = () => {
     return (
         <Header position="static">
             <Toolbar>
-                <Tabs to="./" exact='true'>Code for Interview</Tabs>
+                <Tabs to="./" exact='true'>Mern Crud App</Tabs>
                 <Tabs to="all" exact='true'>All Users</Tabs>
                 <Tabs to="add" exact='true'>Add User</Tabs>
             </Toolbar>
